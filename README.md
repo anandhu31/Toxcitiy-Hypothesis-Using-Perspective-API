@@ -8,4 +8,6 @@ For the second part of the test, I obtained the scores of the same three phrases
 
 From this we can conclude that the use of exclamation marks does increase the score, for the most part. The only exception was "f*** off", but the score decreased by less than 0.01. From the data, we can see that words like "h*** no" have a huge impact when two exclamation marks are added. 
 
+My guess on why the phrase "f*** off" decreased with the added excamlation marks is that with the added punctuation, the system interpretted it as more sarcastic - therby decreasing its score slightly. Frankly, I am still very suprised that this phrases score decreased.
+
 See the document in the repository for more analysis on the data.
